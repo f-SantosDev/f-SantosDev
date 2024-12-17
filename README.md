@@ -25,7 +25,7 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
         <img 
             alt="LinkedIn" 
             title="fabio-santos-fullstack-engineer"
-            width="28px" 
+            width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
@@ -37,7 +37,18 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             width="29px"
             height="30px"
             style="padding-right: 10px;" 
-            src="https://github.com/user-attachments/assets/3032248c-ebd0-4e9c-b7e5-30a5c9943c1b" />
+            src="https://github.com/gui-bus/TechIcons/blob/main/Light/Gmail.svg"
+        />
+    </a>
+    <a href="https://vercel.com/fabio-santos-projects">
+        <img 
+            alt="Vercel" 
+            title="fabio-santos-projects"
+            width="29px"
+            height="30px"
+            style="padding-right: 10px;" 
+            src="https://github.com/gui-bus/TechIcons/blob/main/Light/Vercel.svg" 
+        />
     </a>
     <a href="https://www.freecodecamp.org/certification/fcc62a9b422-3fb8-426c-a81d-e008caad76d6/foundational-c-sharp-with-microsoft">
         <img 
@@ -46,7 +57,8 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             width="33px"
             height="32px"
             style="padding-right: 10px;" 
-            src="https://github.com/user-attachments/assets/9ad4cf54-585c-42fb-8fd5-3261d993dc23" />
+            src="https://github.com/user-attachments/assets/9ad4cf54-585c-42fb-8fd5-3261d993dc23" 
+        />
     </a>
 </div>
 
@@ -134,6 +146,22 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.JS" 
+    title="Node.JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" 
+/>
+<img 
+    align="left" 
+    alt="NPM" 
+    title="NPM"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" 
 />
 <img 
     align="left" 
