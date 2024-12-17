@@ -39,6 +39,15 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
             style="padding-right: 10px;" 
             src="https://github.com/user-attachments/assets/3032248c-ebd0-4e9c-b7e5-30a5c9943c1b" />
     </a>
+    <a href="https://www.freecodecamp.org/certification/fcc62a9b422-3fb8-426c-a81d-e008caad76d6/foundational-c-sharp-with-microsoft">
+        <img 
+            alt="Microsoft Certification" 
+            title="Fundational C# with Microsoft - Certification"
+            width="33px"
+            height="32px"
+            style="padding-right: 10px;" 
+            src="https://github.com/user-attachments/assets/9ad4cf54-585c-42fb-8fd5-3261d993dc23" />
+    </a>
 </div>
 
 ---
