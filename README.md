@@ -6,7 +6,7 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
 
 
 
-<p align="left">
+<div align="left">
     <a href="https://github.com/f-SantosDev?tab=repositories&sort=stargazers">
         <img 
             alt="Total stars" 
@@ -30,7 +30,7 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
-</p>
+</div>
 
 ---
 
