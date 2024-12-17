@@ -127,7 +127,8 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
 />
 
 ### Statistics
-
+<br />
+<br />
 <p>
   <img 
     align="left" 
