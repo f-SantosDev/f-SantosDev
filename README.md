@@ -119,6 +119,22 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
 />
 <img 
     align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
