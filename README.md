@@ -24,7 +24,7 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
     <a href="https://www.linkedin.com/in/fabio-santos-fullstack-engineer/">
         <img 
             alt="LinkedIn" 
-            title="LinkedIn"
+            title="fabio-santos-fullstack-engineer"
             width="28px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
@@ -33,7 +33,7 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
     <a href="mailto:fabio.moraes.ti@gmail.com">
         <img 
             alt="Gmail" 
-            title="Gmail"
+            title="fabio.moraes.ti@gmail.com"
             width="29px"
             height="30px"
             style="padding-right: 10px;" 
