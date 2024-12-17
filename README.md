@@ -131,7 +131,7 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
 
 ### Statistics
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -140,11 +140,10 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
     src="https://github-readme-stats.vercel.app/api?username=f-SantosDev&show_icons=true&theme=jolly&include_all_commits=true" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Language Card" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-SantosDev&theme=jolly&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
-</p>
+</div>
