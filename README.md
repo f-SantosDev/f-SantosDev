@@ -30,6 +30,15 @@ My name is Fábio Moraes Santos, I'm 39 years old and I'm from São Paulo, Brazi
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
+    <a href="mailto:fabio.moraes.ti@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail"
+            width="29px"
+            height="30px"
+            style="padding-right: 10px;" 
+            src="https://github.com/user-attachments/assets/3032248c-ebd0-4e9c-b7e5-30a5c9943c1b" />
+    </a>
 </div>
 
 ---
