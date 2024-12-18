@@ -194,18 +194,22 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
 ### Statistics
 
 <div>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=f-santosDev&show_icons=true&theme=jolly&include_all_commits=true" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Language Card" 
-      height="170px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-santosDev&theme=jolly&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
+    <img 
+        alt="GitHub Stats" 
+        height="170px" 
+        src="https://github-readme-stats.vercel.app/api?username=f-santosDev&show_icons=true&theme=jolly&include_all_commits=true" 
+    />
+    <img  
+        alt="GitHub Language Card" 
+        height="170px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-santosDev&theme=jolly&layout=compact&custom_title=Technologies&langs_count=9" 
+    />
 </div>
+<div>
+    <img 
+        alt="GitHub Stats" 
+        height="160px"
+        src="https://streak-stats.demolab.com/?user=f-SantosDev&theme=synthwave" 
+    />
+</div>
+
