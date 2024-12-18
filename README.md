@@ -64,8 +64,7 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
 
 ---
 
-### Languages ​​and Technologies
-<br />
+### Main Stack
 
 <img
     align="left" 
@@ -91,6 +90,20 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="Visual Studio"
+    title="Visual Studio" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+    
+<br />
+<br />
+
+### Other Languages and Technologies
+
 <img 
     align="left" 
     alt="HTML"
