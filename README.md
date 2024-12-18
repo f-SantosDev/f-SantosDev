@@ -205,23 +205,3 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-santosDev&theme=jolly&layout=compact&custom_title=Technologies&langs_count=9" 
     />
 </div>
-<div>
-    <img 
-        alt="GitHub Stats" 
-        height="160px"
-        src="https://streak-stats.demolab.com/?user=f-SantosDev&theme=jolly&fire=fff" 
-    />
-    <img
-        alt="C#"
-        title="C#" 
-        height="160px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-    />
-    <img 
-        alt=".Net"
-        title=".Net" 
-        height="160px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-    />
-</div>
-
