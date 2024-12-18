@@ -211,5 +211,17 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
         height="160px"
         src="https://streak-stats.demolab.com/?user=f-SantosDev&theme=synthwave" 
     />
+    <img
+        alt="C#"
+        title="C#" 
+        height="160px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
+    <img 
+        alt=".Net"
+        title=".Net" 
+        height="160px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+    />
 </div>
 
