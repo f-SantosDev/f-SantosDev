@@ -209,7 +209,7 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     <img 
         alt="GitHub Stats" 
         height="160px"
-        src="https://streak-stats.demolab.com/?user=f-SantosDev&theme=jolly" 
+        src="https://streak-stats.demolab.com/?user=f-SantosDev&theme=jolly&fire=fff" 
     />
     <img
         alt="C#"
