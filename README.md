@@ -153,7 +153,7 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     title="Node.JS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
