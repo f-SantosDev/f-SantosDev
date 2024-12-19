@@ -26,7 +26,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             alt="LinkedIn" 
             title="fabio-santos-fullstack-engineer"
             width="30px" 
-            style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
@@ -36,7 +35,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             title="fabio.moraes.ti@gmail.com"
             width="29px"
             height="30px"
-            style="padding-right: 10px;" 
             src="https://github.com/gui-bus/TechIcons/blob/main/Light/Gmail.svg"
         />
     </a>
@@ -46,7 +44,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             title="fabio-santos-projects"
             width="29px"
             height="30px"
-            style="padding-right: 10px;" 
             src="https://github.com/gui-bus/TechIcons/blob/main/Light/Vercel.svg" 
         />
     </a>
@@ -56,7 +53,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
             title="Fundational C# with Microsoft - Certification"
             width="33px"
             height="32px"
-            style="padding-right: 10px;" 
             src="https://github.com/user-attachments/assets/9ad4cf54-585c-42fb-8fd5-3261d993dc23" 
         />
     </a>
@@ -71,7 +67,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="C#"
     title="C#" 
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
@@ -79,7 +74,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt=".Net"
     title=".Net" 
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
 <img 
@@ -87,7 +81,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="SQLServer"
     title="SQLServer" 
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
 />
 <img 
@@ -95,8 +88,14 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Visual Studio"
     title="Visual Studio" 
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
     
 <br />
@@ -109,7 +108,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -117,7 +115,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -125,7 +122,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -133,7 +129,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -141,7 +136,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -149,7 +143,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -157,7 +150,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -165,7 +157,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Node.JS" 
     title="Node.JS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
@@ -173,7 +164,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="NPM" 
     title="NPM"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" 
 />
 <img 
@@ -181,7 +171,6 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Postman" 
     title="Postman"
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
 />
 <img 
@@ -189,16 +178,7 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     alt="Insomnia" 
     title="Insomnia"
     width="30px" 
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br />
