@@ -97,6 +97,13 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
     width="30px"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="30px"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+/>
     
 <br />
 <br />
