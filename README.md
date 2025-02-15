@@ -175,6 +175,13 @@ My name is <strong><em>Fábio Moraes Santos</em></strong>, I'm 39 years old and 
 />
 <img 
     align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px"  
+    src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg" 
+/>
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
